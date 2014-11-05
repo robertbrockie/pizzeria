@@ -1,0 +1,22 @@
+.alert-error { border: 2px solid red; }
+
+.container {
+  max-width: 800px;
+}
+
+.jumbotron {
+  margin: 0 auto;
+  padding: 20px 0;
+}
+
+.btn {
+  width: 200px;
+}
+
+.alert {
+  margin: 0px auto 15px auto;
+  max-width: 400px;
+  padding: 10px;
+}
+
+.alert p { font-size: 14px }
